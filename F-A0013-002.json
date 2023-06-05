@@ -1,0 +1,452 @@
+{
+ "cwbopendata": {
+  "@xmlns": "urn:cwb:gov:tw:cwbcommon:0.1",
+  "identifier": "686218d8-ff87-11ed-b923-0242ac110002",
+  "sender": "weather@cwb.gov.tw",
+  "sent": "2023-05-31T15:47:35+08:00",
+  "status": "Actual",
+  "msgType": "Issue",
+  "dataid": "A0013-004",
+  "scope": "Public",
+  "dataset": {
+   "weatherElement": [
+    {
+     "elementName": "平均氣溫機率預報",
+     "location": [
+      {
+       "locationName": "北部",
+       "time": [
+        {
+         "dataTime": "2023/06",
+         "elementValue": {
+          "value": "20:50:30",
+          "measures": "%"
+         }
+        },
+        {
+         "dataTime": "2023/07",
+         "elementValue": {
+          "value": "10:60:30",
+          "measures": "%"
+         }
+        },
+        {
+         "dataTime": "2023/08",
+         "elementValue": {
+          "value": "10:50:40",
+          "measures": "%"
+         }
+        }
+       ]
+      },
+      {
+       "locationName": "中部",
+       "time": [
+        {
+         "dataTime": "2023/06",
+         "elementValue": {
+          "value": "20:50:30",
+          "measures": "%"
+         }
+        },
+        {
+         "dataTime": "2023/07",
+         "elementValue": {
+          "value": "10:60:30",
+          "measures": "%"
+         }
+        },
+        {
+         "dataTime": "2023/08",
+         "elementValue": {
+          "value": "10:50:40",
+          "measures": "%"
+         }
+        }
+       ]
+      },
+      {
+       "locationName": "南部",
+       "time": [
+        {
+         "dataTime": "2023/06",
+         "elementValue": {
+          "value": "20:50:30",
+          "measures": "%"
+         }
+        },
+        {
+         "dataTime": "2023/07",
+         "elementValue": {
+          "value": "10:60:30",
+          "measures": "%"
+         }
+        },
+        {
+         "dataTime": "2023/08",
+         "elementValue": {
+          "value": "10:50:40",
+          "measures": "%"
+         }
+        }
+       ]
+      },
+      {
+       "locationName": "東部",
+       "time": [
+        {
+         "dataTime": "2023/06",
+         "elementValue": {
+          "value": "20:50:30",
+          "measures": "%"
+         }
+        },
+        {
+         "dataTime": "2023/07",
+         "elementValue": {
+          "value": "10:60:30",
+          "measures": "%"
+         }
+        },
+        {
+         "dataTime": "2023/08",
+         "elementValue": {
+          "value": "10:50:40",
+          "measures": "%"
+         }
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "elementName": "平均氣溫氣候正常值範圍",
+     "location": [
+      {
+       "locationName": "北部",
+       "time": [
+        {
+         "dataTime": "2023/06",
+         "elementValue": {
+          "value": "28.0~28.5",
+          "measures": "攝氏"
+         }
+        },
+        {
+         "dataTime": "2023/07",
+         "elementValue": {
+          "value": "29.6~30.3",
+          "measures": "攝氏"
+         }
+        },
+        {
+         "dataTime": "2023/08",
+         "elementValue": {
+          "value": "29.1~29.9",
+          "measures": "攝氏"
+         }
+        }
+       ]
+      },
+      {
+       "locationName": "中部",
+       "time": [
+        {
+         "dataTime": "2023/06",
+         "elementValue": {
+          "value": "27.8~28.4",
+          "measures": "攝氏"
+         }
+        },
+        {
+         "dataTime": "2023/07",
+         "elementValue": {
+          "value": "28.6~29.2",
+          "measures": "攝氏"
+         }
+        },
+        {
+         "dataTime": "2023/08",
+         "elementValue": {
+          "value": "28.0~28.7",
+          "measures": "攝氏"
+         }
+        }
+       ]
+      },
+      {
+       "locationName": "南部",
+       "time": [
+        {
+         "dataTime": "2023/06",
+         "elementValue": {
+          "value": "28.6~29.1",
+          "measures": "攝氏"
+         }
+        },
+        {
+         "dataTime": "2023/07",
+         "elementValue": {
+          "value": "29.1~29.5",
+          "measures": "攝氏"
+         }
+        },
+        {
+         "dataTime": "2023/08",
+         "elementValue": {
+          "value": "28.8~29.3",
+          "measures": "攝氏"
+         }
+        }
+       ]
+      },
+      {
+       "locationName": "東部",
+       "time": [
+        {
+         "dataTime": "2023/06",
+         "elementValue": {
+          "value": "27.3~27.7",
+          "measures": "攝氏"
+         }
+        },
+        {
+         "dataTime": "2023/07",
+         "elementValue": {
+          "value": "28.4~28.9",
+          "measures": "攝氏"
+         }
+        },
+        {
+         "dataTime": "2023/08",
+         "elementValue": {
+          "value": "28.2~28.7",
+          "measures": "攝氏"
+         }
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "elementName": "雨量機率預報",
+     "location": [
+      {
+       "locationName": "北部",
+       "time": [
+        {
+         "dataTime": "2023/06",
+         "elementValue": {
+          "value": "20:50:30",
+          "measures": "%"
+         }
+        },
+        {
+         "dataTime": "2023/07",
+         "elementValue": {
+          "value": "20:60:20",
+          "measures": "%"
+         }
+        },
+        {
+         "dataTime": "2023/08",
+         "elementValue": {
+          "value": "30:50:20",
+          "measures": "%"
+         }
+        }
+       ]
+      },
+      {
+       "locationName": "中部",
+       "time": [
+        {
+         "dataTime": "2023/06",
+         "elementValue": {
+          "value": "20:50:30",
+          "measures": "%"
+         }
+        },
+        {
+         "dataTime": "2023/07",
+         "elementValue": {
+          "value": "20:60:20",
+          "measures": "%"
+         }
+        },
+        {
+         "dataTime": "2023/08",
+         "elementValue": {
+          "value": "30:50:20",
+          "measures": "%"
+         }
+        }
+       ]
+      },
+      {
+       "locationName": "南部",
+       "time": [
+        {
+         "dataTime": "2023/06",
+         "elementValue": {
+          "value": "20:50:30",
+          "measures": "%"
+         }
+        },
+        {
+         "dataTime": "2023/07",
+         "elementValue": {
+          "value": "20:60:20",
+          "measures": "%"
+         }
+        },
+        {
+         "dataTime": "2023/08",
+         "elementValue": {
+          "value": "30:50:20",
+          "measures": "%"
+         }
+        }
+       ]
+      },
+      {
+       "locationName": "東部",
+       "time": [
+        {
+         "dataTime": "2023/06",
+         "elementValue": {
+          "value": "20:50:30",
+          "measures": "%"
+         }
+        },
+        {
+         "dataTime": "2023/07",
+         "elementValue": {
+          "value": "20:60:20",
+          "measures": "%"
+         }
+        },
+        {
+         "dataTime": "2023/08",
+         "elementValue": {
+          "value": "30:50:20",
+          "measures": "%"
+         }
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "elementName": "雨量氣候正常值範圍",
+     "location": [
+      {
+       "locationName": "北部",
+       "time": [
+        {
+         "dataTime": "2023/06",
+         "elementValue": {
+          "value": "227.5~387.7",
+          "measures": "mm"
+         }
+        },
+        {
+         "dataTime": "2023/07",
+         "elementValue": {
+          "value": "187.9~251.9",
+          "measures": "mm"
+         }
+        },
+        {
+         "dataTime": "2023/08",
+         "elementValue": {
+          "value": "194.4~391.7",
+          "measures": "mm"
+         }
+        }
+       ]
+      },
+      {
+       "locationName": "中部",
+       "time": [
+        {
+         "dataTime": "2023/06",
+         "elementValue": {
+          "value": "202.3~365.8",
+          "measures": "mm"
+         }
+        },
+        {
+         "dataTime": "2023/07",
+         "elementValue": {
+          "value": "172.0~351.4",
+          "measures": "mm"
+         }
+        },
+        {
+         "dataTime": "2023/08",
+         "elementValue": {
+          "value": "214.1~394.9",
+          "measures": "mm"
+         }
+        }
+       ]
+      },
+      {
+       "locationName": "南部",
+       "time": [
+        {
+         "dataTime": "2023/06",
+         "elementValue": {
+          "value": "201.0~450.9",
+          "measures": "mm"
+         }
+        },
+        {
+         "dataTime": "2023/07",
+         "elementValue": {
+          "value": "239.8~476.1",
+          "measures": "mm"
+         }
+        },
+        {
+         "dataTime": "2023/08",
+         "elementValue": {
+          "value": "203.3~626.5",
+          "measures": "mm"
+         }
+        }
+       ]
+      },
+      {
+       "locationName": "東部",
+       "time": [
+        {
+         "dataTime": "2023/06",
+         "elementValue": {
+          "value": "118.8~180.0",
+          "measures": "mm"
+         }
+        },
+        {
+         "dataTime": "2023/07",
+         "elementValue": {
+          "value": "52.0~258.8",
+          "measures": "mm"
+         }
+        },
+        {
+         "dataTime": "2023/08",
+         "elementValue": {
+          "value": "141.0~315.5",
+          "measures": "mm"
+         }
+        }
+       ]
+      }
+     ]
+    }
+   ]
+  }
+ }
+}
